@@ -1,0 +1,19 @@
+{
+  "name": "ts-langchain-main-starter",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node out/main.js",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "langchain": "0.0.150",
+    "ts-langchain-chain-starter": "0.0.1"
+  },
+  "devDependencies": {
+    "typescript": "5.2.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
